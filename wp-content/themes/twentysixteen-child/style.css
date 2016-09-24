@@ -1,0 +1,23 @@
+/*
+Theme Name:     Twenty Sixteen Child
+Theme URI:      http://alumni.illinoistriangle.com/twenty-sixteen-child
+Description:    Twenty Sixten Child Theme
+Author:         Andrew Lee
+Template:       twentysixteen
+Version:        1.0.0
+License:        GNU GPL v2 or laster
+License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+Tags:           light, two-columns, responsive-layout
+Text Domain:    twenty-sixteen-child
+*/
+
+@media screen and (min-width: 44.375em) {
+    .site {
+        margin: 21px auto;
+        max-width: 1024px;
+    }
+
+    .site-header {
+        padding: 2.25em 4.5455%;
+    }
+}
